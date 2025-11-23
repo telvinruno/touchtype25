@@ -46,7 +46,7 @@ export function Navbar({
   return (
     <nav className="border-b border-border bg-card/50 backdrop-blur-sm sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
-        <h1 className="text-2xl font-bold text-primary">Road to 300WPM😅</h1>
+        <h1 className="text-2xl font-bold text-primary">Road to 300WPM😅 </h1>
 
         <div className="flex items-center gap-8">
           {/* Exercise Dropdown */}
